@@ -1,0 +1,24 @@
+{
+  "animalFacts": [
+    {
+      "animal": "Elephant",
+      "fact": "Elephants are the largest land animals on Earth."
+    },
+    {
+      "animal": "Dolphin",
+      "fact": "Dolphins are known for their intelligence and playful behavior."
+    },
+    {
+      "animal": "Koala",
+      "fact": "Koalas have fingerprints that are similar to humans."
+    },
+    {
+      "animal": "Penguin",
+      "fact": "Penguins can't fly but are amazing swimmers."
+    },
+    {
+      "animal": "Giraffe",
+      "fact": "Giraffes have the longest neck of all land animals and can reach tall trees for food."
+    }
+  ]
+}
