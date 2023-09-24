@@ -1,0 +1,23 @@
+{
+    "Apple Inc.": {
+      "founders": ["Steve Jobs", "Steve Wozniak", "Ronald Wayne"],
+      "revenue": "$365.9 billion",
+      "market value": "$2.5 trillion"
+    },
+    "Amazon.com, Inc.": {
+      "founders": ["Jeff Bezos"],
+      "revenue": "$513.9 billion",
+      "market value": "$1.8 trillion"
+    },
+    "Microsoft Corporation": {
+      "founders": ["Bill Gates", "Paul Allen"],
+      "revenue": "$182.9 billion",
+      "market value": "$1.9 trillion"
+    },
+    "Alphabet Inc.": {
+      "founders": ["Larry Page", "Sergey Brin"],
+      "revenue": "$237.2 billion",
+      "market value": "$1.6 trillion"
+    }
+  }
+  
