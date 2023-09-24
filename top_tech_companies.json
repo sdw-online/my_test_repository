@@ -18,6 +18,36 @@
       "founders": ["Larry Page", "Sergey Brin"],
       "revenue": "$237.2 billion",
       "market value": "$1.6 trillion"
+    },
+    "Facebook, Inc. (now Meta Platforms)": {
+      "founders": ["Mark Zuckerberg", "Eduardo Saverin", "Dustin Moskovitz", "Chris Hughes", "Andrew McCollum"],
+      "revenue": "$114.9 billion",
+      "market value": "$1 trillion"
+    },
+    "Tencent Holdings Ltd.": {
+      "founders": ["Ma Huateng", "Zhang Zhidong", "Xu Chenye", "Chen Yidan", "Zeng Liqing"],
+      "revenue": "$82.4 billion",
+      "market value": "$778 billion"
+    },
+    "Alibaba Group Holding Ltd.": {
+      "founders": ["Jack Ma"],
+      "revenue": "$109.5 billion",
+      "market value": "$611 billion"
+    },
+    "Samsung Electronics Co., Ltd.": {
+      "founders": ["Lee Byung-chul"],
+      "revenue": "$197.7 billion",
+      "market value": "$494 billion"
+    },
+    "Nvidia Corporation": {
+      "founders": ["Jensen Huang", "Chris Malachowsky", "Curtis Priem"],
+      "revenue": "$21.5 billion",
+      "market value": "$472 billion"
+    },
+    "Oracle Corporation": {
+      "founders": ["Larry Ellison", "Bob Miner", "Ed Oates"],
+      "revenue": "$40.5 billion",
+      "market value": "$236 billion"
     }
   }
   
