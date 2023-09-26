@@ -1,0 +1,14 @@
+{
+  "TeamName": "Manchester United",
+  "League": "Premier League",
+  "Founded": 1878,
+  "Stadium": "Old Trafford",
+  "Manager": "Erik Ten Hag",
+  "Nickname": "The Red Devils",
+  "TrophiesWon": {
+    "LeagueTitles": 20,
+    "FACups": 12,
+    "LeagueCups": 5,
+    "UEFAChampionsLeagueTitles": 3
+  }
+}
